@@ -46,7 +46,7 @@
                                     <action selector="queryWeather:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gWt-Ag-ZuW"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" restorationIdentifier="WeatherDetailsLabel" text="" lineBreakMode="tailTruncation" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WKk-K5-9Ml">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" restorationIdentifier="WeatherDetailsLabel" text="" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WKk-K5-9Ml">
                                 <constraints>
                                     <constraint firstAttribute="height" constant="141" id="Jb3-l5-wy9"/>
                                 </constraints>
@@ -85,6 +85,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="photo-1468336210566-1e743694dc18.jpeg" width="5134" height="3422"/>
+        <image name="photo-1468336210566-1e743694dc18.jpeg" width="1500" height="1000"/>
     </resources>
 </document>
