@@ -66,10 +66,6 @@ class ViewController: UIViewController, UITextFieldDelegate {
         }
     }
     
-    func convertToHTMLString (_ inputString: String) -> String {
-       return inputString
-    }
-    
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
         textField.resignFirstResponder()
         return true
